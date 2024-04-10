@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+  <img  src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffc0b1&height=100&section=header" />
 </div>
 
 [![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://martinheinz.dev/)
