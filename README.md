@@ -1,7 +1,9 @@
-<div style="font-family:monospace;">
+
 <div align="center" >
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </div>
+
+[![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://martinheinz.dev/)
 
 <h1 align="center" >
   Let's Connect and have a Chat!💬
@@ -99,5 +101,4 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 
 <div align="center">
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 </div>
