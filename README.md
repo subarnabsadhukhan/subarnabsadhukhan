@@ -86,18 +86,35 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 </div>       
 </div>
 <!-- Tools -->
-<div style="display: flex; flex-direction: column; gap: 10px; border: 1px solid grey; padding: 8px; margin-top: 10px; border-radius: 10px;">
-<h3 style="  margin-top: 0px;margin-bottom: 0px;">Tools</h3>
-<div style="display:flex;flex-wrap:wrap;gap:10px;">
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img style="height: 40px;" src="https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/github.png" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-          
-</div>
-</div>
+
+### Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" /> </br> Git
+    </td>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/github.png" alt="Github" /> </br> Github
+    </td>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" /> </br> Canva
+    </td>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" /> </br> Figma
+    </td>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" /> </br> Vercel
+    </td>
+    <td align="center" width="96">
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" /> </br> Netlify
+    </td>
+    <td>
+      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Cloudinary" /> </br> Cloudinary
+    </td>
+  </tr>
+</table>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"   height="50" />
+
 
 <div align="center">
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
