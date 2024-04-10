@@ -3,11 +3,9 @@
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </div>
 
-[![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://subarnabsadhukhan.com/)
 
-<h1 align="center" >
-  Let's Connect and have a Chat!💬
-</h1>
+## 💬 Connect With Me
 
 <div align="center">
 <!-- My Website -->
@@ -35,7 +33,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 👨🏻‍💻 A Little Bit About Me and My Interests
 
 ```yaml
 name: Subarnab Sadhukhan
@@ -53,8 +51,7 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 
 ---
 
-<h2> 🚀 &nbsp;Skills</h2>
-<!-- Frontend -->
+## 🚀 Skills
 
 ### Frontend Development
 <div>
@@ -75,23 +72,6 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=flat" alt="Chakra UI Badge" height="35">
 </div>
 
-<!--
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
--->
-
-
-<!-- Backend -->
-
 ### Backend Development
 <div>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat" alt="Firebase Badge" height="35">
@@ -100,16 +80,7 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
   <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge" height="35">
 </div>
 
-<!---
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
---->
-<!-- Tools -->
-
 ### Tools
-
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge" height="35">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge" height="35">
@@ -124,33 +95,11 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="Figma Badge" height="35">
 </div>
 
-<!---
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" /> </br> Git
-    </td>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/github.png" alt="Github" /> </br> Github
-    </td>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" /> </br> Canva
-    </td>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" /> </br> Figma
-    </td>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" /> </br> Vercel
-    </td>
-    <td align="center" width="96">
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" /> </br> Netlify
-    </td>
-    <td>
-      <img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Cloudinary" /> </br> Cloudinary
-    </td>
-  </tr>
-</table>
---->
+## &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />  
+
+
 
 
 <div align="center">
