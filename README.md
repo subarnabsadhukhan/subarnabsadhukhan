@@ -1,5 +1,6 @@
 <div align="center" >
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+  <a href="#">
+    <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" /></a>
 </div>
 
 [![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://subarnabsadhukhan.com/)
