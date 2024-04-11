@@ -134,11 +134,14 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "Technical Writer", "Reading Books"
 
 | **Project Name**  | **Skills Used**  | **Description**  |  **Site**
 |---|---|---|---|
-| [The Wild Oasis](https://qr.subarnab.in/the-wild-oasis-github) | React, Router, React Query, Recharts, Styled Components, React Hook Form, Supabase (as Backend) | A fully functional application with user authentication, CRUD operations for booking, cabins, and check-ins with Supabase AP. Server-side Pagination, Sorting, & Filtering of data, use of graphs and pie-charts to visualize sales, 10+ pages, 30+ custom react components, and 10+ react hooks. | [🔗](https://qr.subarnab.in/the-wild-oasis) <a href="https://qr.subarnab.in/the-wild-oasis"><code>🔗<code/></a> [asdf](https://img.shields.io/badge/-272b33?logo=devdotto&logoColor=fff&style=flat&link=["https://qr.subarnab.in/the-wild-oasis"]) |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [The Wild Oasis](https://qr.subarnab.in/the-wild-oasis-github) | React, Router, React Query, Recharts, Styled Components, React Hook Form, Supabase (as Backend) | A fully functional application with user authentication, CRUD operations for booking, cabins, and check-ins with Supabase AP. Server-side Pagination, Sorting, & Filtering of data, use of graphs and pie-charts to visualize sales, 10+ pages, 30+ custom react components, and 10+ react hooks. | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)](https://qr.subarnab.in/the-wild-oasis) |
+| [Chat App - inspired by Discord](https://qr.subarnab.in/chat-app-project-github) | React, React Router, Google Firebase, Sass (as CSS Extension), React Suite (as UI Library | Users can now create multiple chat rooms and grant admin permissions. Firebase auth is used for user authentication, while the real-time database synchronizes messages. Cloud Firestore is used to store voice messages and files. | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)](https://qr.subarnab.in/chat-app) |
+| [Fast React Pizza & Co.](https://qr.subarnab.in/fast-react-pizza-github) | React, React Router, Redux, RTK, Tailwind CSS | Use React-Router to display the Pizza menu, add, edit, or remove pizzas from the Cart, generate unique Order IDs, and track delivery status. Use Tailwind CSS to styling the application. | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)]() |
+| [World Wise App](https://qr.subarnab.in/worldwise-react-project-github) | React, Geo Location API, Reverse Geo Coding, CSS Module, Context API | An app to track your global adventures, save visited places, and show them on a map. | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)](https://qr.subarnab.in/worldwise) |
+| [Box Office App](https://qr.subarnab.in/box-office-app-github) | React, Router, Styled Components, Local Storage, Context API | 🎬 Introducing the Movie Bookmark App! 📱 Easily search for your favorite movies and access all the details you need in just a few clicks. From release year to cast, plot summary, and ratings, this app has got you covered! | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)](https://qr.subarnab.in/box-office) |
+| [Tic Tac Toe](https://qr.subarnab.in/tictactoegame-github) | React, React Router | Simple Tic Tac Toe Game on React. View Game History, revert Game History. | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)](https://qr.subarnab.in/tic-tac-toe-surge) |
+
+<!--- | []() |  |  | [![Link](https://img.shields.io/badge/Link-0a66c2?&style=flat)]() | --->
 
 ## ⚡ My Coding Stats
 
