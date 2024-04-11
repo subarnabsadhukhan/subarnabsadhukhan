@@ -104,7 +104,7 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 
 ## &#x1f4c8; My Most Used Programming Languages
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)](#)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&card_width=495)](#)
 [![WakaTime Stats (last 7 days)](https://github-readme-stats.vercel.app/api/wakatime?username=subarnabsadhukhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact)](#)
 
 ## 🏆 GitHub Profile Trophy
