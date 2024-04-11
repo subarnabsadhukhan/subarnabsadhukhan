@@ -97,12 +97,19 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="Figma Badge" height="30">
 </div>
 
-## &#x1f4c8; GitHub Stats
+## ⚡ My Coding Stats
 
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="Most Used Languages" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=subarnabsadhukhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" alt="WakaTime Stats (last 7 days)" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=subarnabsadhukhan&theme=highcontrast)](#)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=subarnabsadhukhan&show_icons=true&theme=highcontrast)](#)
+
+## &#x1f4c8; My Most Used Programming Languages
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)](#)
+[![WakaTime Stats (last 7 days)](https://github-readme-stats.vercel.app/api/wakatime?username=subarnabsadhukhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact)](#)
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=subarnabsadhukhan&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15)](#)
 
 
 <div align="center">
