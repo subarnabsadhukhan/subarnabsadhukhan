@@ -99,7 +99,11 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarnabsadhukhan&hide=cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="Most Used Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=subarnabsadhukhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" alt="WakaTime Stats (last 7 days)" />
+</div>
+
 
 <div align="center">
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
