@@ -183,5 +183,6 @@ hobbies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=subarnabsadhukhan&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15)](#-github-profile-trophy)
 
 <div align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="#">
+    <img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
 </div>
