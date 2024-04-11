@@ -99,8 +99,8 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
 
 ## ⚡ My Coding Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=subarnabsadhukhan&theme=highcontrast)](#)
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=subarnabsadhukhan&show_icons=true&theme=highcontrast)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=subarnabsadhukhan&theme=highcontrast&card_width=420)](#)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=subarnabsadhukhan&show_icons=true&theme=highcontrast&card_width=250)](#)
 
 ## &#x1f4c8; My Most Used Programming Languages
 
