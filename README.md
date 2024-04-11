@@ -12,8 +12,6 @@
 
 💻 Currently, I'm sharpening my skills in building scalable and efficient applications with _TypeScript_ & _Next JS FrameWork_. Additionally, I am expanding my expertise in the realm of mobile app development with _React Native_.
 
----
-
 ## 💬 Connect With Me
 
 <div align="center">
@@ -39,8 +37,6 @@
 <a href="mailto:hello@subarnab.in">
   <img src="https://img.shields.io/badge/Gmail-EA4330?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge" height="30"></a>
 </div>
-
----
 
 ## 🫱🏻‍🫲🏻 Here's a bit more about me
 
@@ -78,8 +74,6 @@ fields_of_interests:
 
 hobbies: ["Coding", "Chess", "Rubik's Cube", "Technical Writer", "Reading Books"]
 ```
-
----
 
 ## 🚀 Skills
 
@@ -138,11 +132,13 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "Technical Writer", "Reading Books"
 
 ## 🛠️ Featured Projects
 
-| **Project Name**  | **Skills Used**  | **Description**  |  
-|---|---|---|
-| [](The Wild Oasis App) |  |  |
-| []() |  |  |
-| []() |  |  |
+| **Project Name**  | **Skills Used**  | **Description**  |  **Site**
+|---|---|---|---|
+| [The Wild Oasis](https://qr.subarnab.in/the-wild-oasis-github) | React, Router, React Query, Recharts, Styled Components, React Hook Form, Supabase (as Backend) | A fully functional application with user authentication, CRUD operations for booking, cabins, and check-ins with Supabase AP. Server-side Pagination, Sorting, & Filtering of data, use of graphs and pie-charts to visualize sales, 10+ pages, 30+ custom react components, and 10+ react hooks. | [🔗](https://qr.subarnab.in/the-wild-oasis) <a href="https://qr.subarnab.in/the-wild-oasis"><code>🔗<code/></a> [asdf](https://img.shields.io/badge/-272b33?logo=devdotto&logoColor=fff&style=flat&link=["https://qr.subarnab.in/the-wild-oasis"]) |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
 
 ## ⚡ My Coding Stats
 
