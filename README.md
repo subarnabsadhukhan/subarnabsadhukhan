@@ -18,25 +18,25 @@
 <div align="center">
 <!-- My Website -->
 <a target="_blank" href="https://subarnabsadhukhan.com/">
-   <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-8364cc?logo=coding&logoColor=fff&style=flat" alt="LinkedIn Badge" height="30"></a>
+   <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-8364cc?logo=coding&logoColor=fff&style=flat" alt="LinkedIn Badge" height="25"></a>
 <!-- LinkedIn --> 
 <a href="https://www.linkedin.com/in/subarnabsadhukhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge" height="25"></a>
 <!-- Medium -->
 <a href="https://medium.com/@subarnabsadhukhan">
-  <img src="https://img.shields.io/badge/Medium-272b33?logo=medium&logoColor=fff&style=flat" alt="Medium Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/Medium-272b33?logo=medium&logoColor=fff&style=flat" alt="Medium Badge" height="25"></a>
 <!-- Hashnode -->
 <a href="https://subarnab.com/">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=flat" alt="Hashnode Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=flat" alt="Hashnode Badge" height="25"></a>
 <!-- Dev.to -->
 <a href="https://dev.to/subarnabsadhukhan">
-  <img src="https://img.shields.io/badge/dev.to-272b33?logo=devdotto&logoColor=fff&style=flat" alt="dev.to Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/dev.to-272b33?logo=devdotto&logoColor=fff&style=flat" alt="dev.to Badge" height="25"></a>
 <!-- Twitter -->
 <a href="https://twitter.com/SubarnabS">
-  <img src="https://img.shields.io/badge/Twitter-272b33?logo=x&logoColor=fff&style=flat" alt="X Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/Twitter-272b33?logo=x&logoColor=fff&style=flat" alt="X Badge" height="25"></a>
 <!-- Gmail -->
 <a href="mailto:hello@subarnab.in">
-  <img src="https://img.shields.io/badge/Gmail-EA4330?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge" height="30"></a>
+  <img src="https://img.shields.io/badge/Gmail-EA4330?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge" height="25"></a>
 </div>
 
 ## 🫱🏻‍🫲🏻 Here's a bit more about me
