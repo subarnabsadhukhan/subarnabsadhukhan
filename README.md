@@ -4,6 +4,16 @@
 
 [![Header](https://raw.githubusercontent.com/subarnabsadhukhan/assets/main/linkedin_cover.png "Header")](https://subarnabsadhukhan.com/)
 
+## 👋 Hey there, fellow tech enthusiasts!
+
+✨  Hi, I'm *Subarnab Sadhukhan* - a skilled *full-stack developer* with expertise in ***React and Next JS***.
+
+🚀 I craft interactive and dynamic web applications using **React, TypeScript & Next JS** for the frontend and Node.js/Express.js for the backend. Furthermore, I have expertise in modern Backend-as-a-Service (BaaS) technologies like **_Firebase, Appwrite, and Supabase_** for creating custom backends.
+
+💻 Currently, I'm sharpening my skills in building scalable and efficient applications with _TypeScript_ & _Next JS FrameWork_. Additionally, I am expanding my expertise in the realm of mobile app development with _React Native_.
+
+---
+
 ## 💬 Connect With Me
 
 <div align="center">
@@ -32,20 +42,41 @@
 
 ---
 
-## 👨🏻‍💻 A Little Bit About Me and My Interests
+## 🫱🏻‍🫲🏻 Here's a bit more about me
+
+As a self-taught programmer, I have learned coding through my own curiosity and dedication.
+
+My passion for learning coding started in my high school days when I delved into blogging. I always felt the need for customization on my website, but plugins were too expensive. So, I started experimenting with adding simple features and taught myself the basics of HTML, CSS, & JavaScript, and that was the beginning. 
+
+What began as a simple desire to customize a WordPress blog became a passion for programming.
+
+Have you heard these quotes?
+
+    "Focus on the journey, not the destination. Joy is found not in finishing an activity but in doing it." - Greg Anderson.
+or,
+
+     "Happiness is a journey, not a destination." - Ben Sweetland.
+    
+And what's great is that I really enjoy this Journey of Becoming a Software Developer.  With each line of code, I discovered the thrill of turning visions into reality. I know it sounds overly enthusiastic, but that's really how I feel.
+
+### 
 
 ```yaml
-name: Subarnab Sadhukhan
 located_in: Kolkata, India
-current_job: Full Stack Developer
-education: ["Self-Taught Developer and Designer", "Bachelor's in Physics"]
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Physical Science",
+  ]
 
 fields_of_interests:
-  ["Web Development", "Mobile App Development", "UI/UX Design"]
+  [
+    "Web App Development",
+    "UI/UX Design",
+    "Mobile App Development",
+  ]
 
-currently_learning: ["Docker, Next JS, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
+hobbies: ["Coding", "Chess", "Rubik's Cube", "Technical Writer", "Reading Books"]
 ```
 
 ---
@@ -96,6 +127,22 @@ hobbies: ["Coding", "Chess", "Rubik's Cube", "AudioBook", "Reading"]
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=flat" alt="Canva Badge" height="30">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="Figma Badge" height="30">
 </div>
+
+## 🎓 Featured Certifications
+
+| **Name**  | **Issuing organization**  | **Issue date**  |  
+|---|---|---|
+| [67 Hours Ultimate React Course](https://qr.subarnab.in/ultimate-react-course-certificate-udemy) | Udemy | Mar 2024 |
+| [6-week React Training](https://qr.subarnab.in/react-certificate-internshala)  | Internshala Trainings  | Dec 2023  |
+| [The Git & GitHub Bootcamp](https://qr.subarnab.in/git-github-certificate-udemy) | Udemy | Aug 2023 |
+
+## 🛠️ Featured Projects
+
+| **Project Name**  | **Skills Used**  | **Description**  |  
+|---|---|---|
+| [](The Wild Oasis App) |  |  |
+| []() |  |  |
+| []() |  |  |
 
 ## ⚡ My Coding Stats
 
